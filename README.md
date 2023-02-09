@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/dxblq473l/image/upload/v1674854713/IconNew_w7sbfh.ico" align="center" alt="Logo" />
+ <img width="100px" src="https://res.cloudinary.com/dxblq473l/image/upload/v1674854713/Recursos/AutoLoginWT/IconNew_w7sbfh.ico" align="center" alt="Logo" />
  <p align="center">
    <h1 align="center"> AutoLoginWT </h1>
  </p>
