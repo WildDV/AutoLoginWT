@@ -23,10 +23,6 @@ Puedes descargar la aplicación desde la siguiente URL `(Versión Independiente 
 
 > https://drive.google.com/drive/folders/17IcXGKn1XWnwuuBeldfgoidoKyBifMYv?usp=sharing
 
-Puedes descargar la aplicación desde la siguiente URL `(Versión Dependiente) Requiere NetFramework 6.0.0-rc.2:` https://dotnet.microsoft.com/en-us/download/dotnet/6.0
-
-> https://drive.google.com/drive/folders/1zgYU0QXgV-atGEptmelAF4cjHyY9z9Dt?usp=sharing
-
 # Funcionamiento General
 
 - Ejecute el archivo AutoLoginWT.exe Como Administrador.
