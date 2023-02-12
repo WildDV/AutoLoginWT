@@ -60,7 +60,7 @@ nuestro Usuario y Contraseña en los respectivos recuadros. La aplicación guard
 
 [![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/5-1_clc7lv.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/5-1_clc7lv.png)
 
-[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/5-2_qrizqn.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/5-2_qrizqn.png)
+[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/Recursos/AutoLoginWT/5-2_qrizqn.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/Recursos/AutoLoginWT/5-2_qrizqn.png)
 
 # Ejecutar Mediante Combinación De Teclas
 
