@@ -54,7 +54,7 @@ nuestro Usuario y Contraseña en los respectivos recuadros. La aplicación guard
 
 - Este botón nos permite minimizar la aplicación en el área de notificaciones. En este modo tenemos 3 Opciones Abrir - Cerrar y Relogin. 
 
-[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/5-1_clc7lv.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/5-1_clc7lv.png)
+[![Readme Card](https://asset.cloudinary.com/dxblq473l/74a1003def91491d938769ad2a7ab92e)](https://asset.cloudinary.com/dxblq473l/74a1003def91491d938769ad2a7ab92e)
 
 [![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/Recursos/AutoLoginWT/5-2_qrizqn.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/Recursos/AutoLoginWT/5-2_qrizqn.png)
 
