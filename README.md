@@ -39,7 +39,7 @@ Puedes descargar la aplicación desde la siguiente URL `(Versión Independiente 
 - Ingresamos en el primer recuadro, el tiempo (En Segundos) en el que se va escribir tu usuario y contraseña, una vez se ejecute el NyxLauncher. Luego escribimos 
 nuestro Usuario y Contraseña en los respectivos recuadros. La aplicación guarda automáticamente los datos y los encripta para que no puedan ser usados por terceros.
 
-[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1674862904/3_pekx3k.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1674862904/3_pekx3k.png)
+[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1674862904/Recursos/AutoLoginWT/3_pekx3k.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1674862904/Recursos/AutoLoginWT/3_pekx3k.png)
 
 >**Note**
 >Si El "NyxLauncher.exe" no carga en el tiempo especificado puede que no funciona correctamente, `Si haces directos no captures el escritorio`,
@@ -54,7 +54,7 @@ nuestro Usuario y Contraseña en los respectivos recuadros. La aplicación guard
 
 - Este botón nos permite minimizar la aplicación en el área de notificaciones. En este modo tenemos 3 Opciones Abrir - Cerrar y Relogin. 
 
-[![Readme Card](https://asset.cloudinary.com/dxblq473l/74a1003def91491d938769ad2a7ab92e)](https://asset.cloudinary.com/dxblq473l/74a1003def91491d938769ad2a7ab92e)
+[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/Recursos/AutoLoginWT/5-1_clc7lv.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/Recursos/AutoLoginWT/5-1_clc7lv.png)
 
 [![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/Recursos/AutoLoginWT/5-2_qrizqn.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1674863436/Recursos/AutoLoginWT/5-2_qrizqn.png)
 
