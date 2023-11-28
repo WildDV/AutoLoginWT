@@ -10,9 +10,6 @@
 -   [Bases](#bases)
 -   [Descargar](#descargar)
 -   [Funcionamiento General](#funcionamiento-general)
--   [Minimizar En El Área De Notificaciones](#minimizar-en-el-área-de-notificaciones)
--   [Ejecutar Mediante Combinación De Teclas](#ejecutar-mediante-combinación-de-teclas)
--   [Cambiar Ruta De Juego](#cambiar-ruta-de-juego)
 
 >**Nota:**
 >AutoLoginWT No Modifica Archivos Del Juego Para Su Funcionamiento. Utiliza Herramientas Proporcionadas Por Microsoft Las Cuales No Violan La Integridad Del Juego.
