@@ -34,7 +34,7 @@ AutoLoginWT aprovecha algunas características estándar proporcionadas por el s
 
 # Descargar
 
-`Puedes descargar la aplicación desde la siguiente URL:`
+`Puedes descargar el instalador de la aplicación desde la siguiente URL:`
 > https://drive.google.com/drive/folders/1CshxlfbY-r5XB8mguSIM6kRpRQ_Y4_A-?usp=sharing
 
 `Rquisitos:`
