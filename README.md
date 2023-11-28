@@ -37,6 +37,9 @@ AutoLoginWT aprovecha algunas características estándar proporcionadas por el s
 `Puedes descargar la aplicación desde la siguiente URL:`
 > https://drive.google.com/drive/folders/1CshxlfbY-r5XB8mguSIM6kRpRQ_Y4_A-?usp=sharing
 
+`Rquisitos:`
+https://dotnet.microsoft.com/es-es/download/dotnet/6.0
+
 # Funcionamiento General
 `Video Demo:`
 
