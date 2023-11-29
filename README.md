@@ -43,4 +43,4 @@ AutoLoginWT aprovecha algunas características estándar proporcionadas por el s
 # Funcionamiento General
 `Video Demo:`
 
-[![Alt text](https://i9.ytimg.com/vi/peFan3sIExY/mqdefault.jpg?v=656596d8&sqp=COS2mKsG&rs=AOn4CLCYxgdRSknRb5rxnYJYIqc5kxKBXA)](https://youtu.be/peFan3sIExY)
+[![Alt text](https://res.cloudinary.com/dxblq473l/image/upload/v1701282989/Recursos/AutoLoginWT%20New/zxk4oulqp7c0hitqn3cq.png)](https://youtu.be/peFan3sIExY)
